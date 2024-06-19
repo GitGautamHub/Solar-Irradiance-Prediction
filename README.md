@@ -18,13 +18,6 @@ Welcome to the Solar Irradiance Prediction project repository! This project leve
 
 - **Python Libraries:** `numpy`, `pandas` for data manipulation; `scikit-learn` for feature selection, preprocessing, and modeling; `xgboost` for gradient boosting; and `tensorflow` or `keras` for MLP implementation.
 
-### Project Structure
-
-- **`data/`:** Directory housing the dataset.
-  
-- **`notebooks/`:** Jupyter notebooks (`Solar_Irradiance_Prediction.ipynb`) detailing data analysis, feature engineering, and model implementation.
-  
-- **`src/`:** Python scripts (`data_wrangling.py`, `feature_selection.py`, `modeling.py`) for structured code execution.
 
 ### Usage
 
@@ -32,12 +25,3 @@ Welcome to the Solar Irradiance Prediction project repository! This project leve
 2. Explore Jupyter notebooks for step-by-step implementation and experimentation with different models and techniques.
 3. Contribute by opening issues or pull requests for enhancements or suggestions.
 
-Replace `117aEsq4apS8lplV-hCQLR7VPy2XTiRaf` in the image link (`![Solar Irradiance](https://drive.google.com/uc?id=117aEsq4apS8lplV-hCQLR7VPy2XTiRaf)`) with the actual Google Drive image ID from your provided link. Ensure that the image sharing settings in Google Drive are set to "Anyone with the link can view" for it to display properly.
-
-### Contribution
-
-Contributions are welcome! Please open issues or pull requests for enhancements or suggestions.
-
-### License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
